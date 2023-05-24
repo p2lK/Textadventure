@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Das Zwischenverzeichnis (obj\x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (ofTextBildKlangAdventure.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Grundlagen Game Design\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Grundlagen Game Design\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Grundlagen Game Design\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Grundlagen Game Design\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Grundlagen Game Design\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Grundlagen Game Design\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  ofTextBildKlangAdventure für Freitag.vcxproj -> C:\Grundlagen Game Design\Textadventure mit Ton\ofTextBildKlangAdventure für Freitag\bin\ofTextBildKlangAdventure für Freitag_debug.exe
+  
+  	                   2	C:\Grundlagen Game Design\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA Datei		 6942208	C:\Grundlagen Game Design\Textadventure mit Ton\ofTextBildKlangAdventure für Freitag\bin\FreeImage.dll
+  
+  	                   1	C:\Grundlagen Game Design\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA Datei		 1826304	C:\Grundlagen Game Design\Textadventure mit Ton\ofTextBildKlangAdventure für Freitag\bin\fmod.dll
+  	  *EXTRA Datei		 2041856	C:\Grundlagen Game Design\Textadventure mit Ton\ofTextBildKlangAdventure für Freitag\bin\fmodL.dll
